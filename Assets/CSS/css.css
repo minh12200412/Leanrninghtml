@@ -1,6 +1,7 @@
 body {
   background-color: #f2eafd;
   font-family: Roboto;
+  user-select: none;
 }
 .header-title {
   text-align: center;
